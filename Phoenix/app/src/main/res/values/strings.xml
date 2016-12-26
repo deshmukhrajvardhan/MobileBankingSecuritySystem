@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Phoenix</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_otp">Enter OTP</string>
+    <string name="prompt_card_type">Enter card type</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_phoneNumber">Phone Number</string>
+    <string name="prompt_card_number">Enter card number</string>
+    <string name="prompt_card_expiration_date">Enter expiration date </string>
+    <string name="prompt_card_CVV">Enter CVV </string>
+    <string name="text_name">Name</string>
+    <string name="text_email">Email</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_welcome">Welcome </string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_send_otp">Confirm</string>
+    <string name="action_pay">Pay</string>
+    <string name="action_goback">Go Back</string>
+    <string name="btn_register">Register</string>
+    <string name="action_signup">Not a member?Register now.</string>
+    <string name="action_forgotPassword">Forgot Password?</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_link_to_login">Already Registered?Login.</string>
+    <string name="btn_logout">Logout</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password_short">This password is too short</string>
+    <string name="error_invalid_password_long">This password is too long</string>
+    <string name="error_invalid_name_long">This password is too long</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="password_field_required">The password field is required</string>
+    <string name="email_field_required">The email field is required</string>
+    <string name="name_field_required">The name field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/bcmail-jdk15on-155.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/bcpg-jdk15on-155.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/bcpkix-jdk15on-155.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/bcprov-ext-jdk15on-155.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MANTRY V/Downloads/Compressed/commons-io-2.5-bin/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MANTRY V/Downloads/Compressed/commons-io-2.5-bin/commons-io-2.5/commons-io-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/sqlite-jdbc-3.15.1.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/twilio-7.2.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/mail.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/activation.jar"/>
+	<classpathentry kind="lib" path="E:/Trustworthy Computing/Final project/Bouncy Castle/additionnal.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
