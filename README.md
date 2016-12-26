@@ -1,6 +1,6 @@
 #Mobile Banking Security System
 
-##1. Introduction: *For Actual Implementation details Checkout* [**(1)**HowItWOrks.md](../blob/master/Documentation/HowItWOrks.docx) in the Documentation file
+##1. Introduction: *For Actual Implementation details Checkout* [**(1)**HowItWorks.md](../blob/master/Documentation/HowItWorks.pdf) in the Documentation file
 
 Throughout history human beings have relied on some sort of payment system to purchase the goods or services we wanted or needed. Mobile devices have changed business and now possibly the way financial transactions of all kinds are made. Consumers are willing to utilize mobile phones for payment purposes as it provides an efficient and easier way to process financial transactions. 
 Even though widely used, many security concerns are also involved with payment through mobile phones. One of the biggest threats can be the interception of the traffic when the mobile payment is in process. This can lead to identity theft, identification disclosure and replay attacks. Poor data protection controls also lead to data disclosure and privacy infringement. If mobile payment is not done securely then any intruder can obtain the credit card details of the user and use it to transfer illegal funds.
@@ -17,16 +17,16 @@ The Android App acts like the client and the Laptop runs CA, Merchant Server and
 ####3.1.1 Install Jar Libraries given in Pheonix_jars: See the Documentation folder(properties->add external jars)
 ###3.2 Open Android studio: choose `File->Open File or Project->` <path> `Phoenix`
 
-##*Checkout* [**(2)**Setup.docx](../blob/master/Documentation/Setup.md] in the Documentation file
+##*Checkout* [**(2)**Setup.pdf](../blob/master/Documentation/Setup.pdf] in the Documentation file
 
 ##4. Run the Projects:
 
 ###4.1 Android App: make these settings on your phone: https://developer.android.com/studio/run/device.html
 ####4.1.1 Connect your Android Phone and in the Android Studio Run'app' (Shift +F10)
 
-###4.2 Eclipse Java servers: *Checkout* [**(3)**DescriptionOfFiles.md](../blob/master/Documentation/ in the Documentation file DescriptionOfFiles.docx)
-####4.2.1 The certificate and key pairs are stored in folder> Phoenix_extra (and will be used)
-####4.2.1/1 (Optional)(to create the files in 4.2.1)Run the CertificateAuthorityServer.java (generates necessary certificates and key-pairs
+###4.2 Eclipse Java servers: *Checkout* [**(3)**DescriptionOfFiles.pdf](../blob/master/Documentation/DescriptionOfFiles.pdf) in the Documentation file DescriptionOfFiles.docx)
+####4.2.1 The certificate and key pairs are stored in folder> `Phoenix_extra` (and will be used)
+####4.2.1/1 (Optional)(to create the files in 4.2.1)Run the `CertificateAuthorityServer.java` (generates necessary certificates and key-pairs
 Note for 4.2.1/1 (should be run only once and the keys shoud be saved in the Andriod program in the `app->res->raw` folder
 list of files to be saved in raw folder:
 `serverclientprivatekey`
@@ -39,4 +39,4 @@ list of files to be saved in raw folder:
 
 ###4.3 The App run
 ####4.3.1 Open the App: Enter your details and keep going through the steps
-####4.3.2 To run attacks *Checkout* [**(4)**Limitations&Attacker.md] (../blob/master/Documentation/Limitations&Attacker.docx)
+####4.3.2 To run attacks *Checkout* [**(4)**Limitations&Attacker.pdf] (../blob/master/Documentation/Limitations&Attacker.pdf)
