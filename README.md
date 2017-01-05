@@ -17,7 +17,7 @@ The Android App acts like the client and the Laptop runs CA, Merchant Server and
 ####3.1.1 Install Jar Libraries given in Pheonix_jars: See the Documentation folder(properties->add external jars)
 ###3.2 Open Android studio: choose `File->Open File or Project->` <path> `Phoenix`
 
-##*Checkout* [**(2)**Setup.pdf](../master/Documentation/Setup.pdf] in the Documentation file
+##*Checkout* [**(2)**Setup.pdf](../master/Documentation/Setup.pdf) in the Documentation file
 
 ##4. Run the Projects:
 
