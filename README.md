@@ -16,14 +16,14 @@ We propose a model to overcome these security concerns which is based on a metho
 #### 3.1.1 Install Jar Libraries given in Pheonix_jars: See the Documentation folder(properties->add external jars)
 ### 3.2 Open Android studio: choose `File->Open File or Project->` <path> `Phoenix`
 
-## 4. [Setup Details](../master/Documentation/Setup.pdf) in the Documentation file
+## 4. [Setup Details](../master/Documentation/Setup.pdf)
 
 ## 5. Run the Projects:
 
 ### 5.1 Android App: make these settings on your phone: https://developer.android.com/studio/run/device.html
 #### 5.1.1 Connect your Android Phone and in the Android Studio Run'app' (Shift +F10)
 
-### 5.2 Eclipse Java servers: *Checkout* [DescriptionOfFiles.pdf](../master/Documentation/DescriptionOfFiles.pdf) in the Documentation file DescriptionOfFiles.docx)
+### 5.2 Eclipse Java servers: [Description](../master/Documentation/DescriptionOfFiles.pdf) 
 #### 5.2.1 The certificate and key pairs are stored in folder `Phoenix_extra` (and will be used)
 #### 5.2.1/1 (Optional)(to create the files in 4.2.1)Run the `CertificateAuthorityServer.java` (generates necessary certificates and key-pairs
 **Note for 5.2.1/1**: This step should be run only once and the keys shoud be saved in the Andriod program in the `app->res->raw` folder
@@ -32,12 +32,12 @@ list of files to be saved in raw folder:
 `client_ss.bks`
 `ca_merchant_certificate.p12`
 `ca_bank_certificate.p12`)
-#### 4.2.2 Run `Database.java` to store the Registeration, login and other details
-#### 4.2.3 Run `MerchantServer.java` to authenticate the user and send product list  
-#### 4.2.4 Run `BankServer.java` to authenticate the Payment  
+#### 5.2.2 Run `Database.java` to store the Registeration, login and other details
+#### 5.2.3 Run `MerchantServer.java` to authenticate the user and send product list  
+#### 5.2.4 Run `BankServer.java` to authenticate the Payment  
 
-### 4.3 The App run
-#### 4.3.1 Open the App: Enter your details and keep going through the steps
-#### 4.3.2 To run attacks *Checkout* [Limitations&Attacker.pdf](../master/Documentation/Limitations&Attacker.pdf)
+### 5.3 The App run
+#### 5.3.1 Open the App: Enter your details and keep going through the steps
+#### 5.3.2 To run attacks first checkout the [documentation](../master/Documentation/Limitations&Attacker.pdf)
 
 ## *For Actual Implementation details Checkout* [HowItWorks](../master/Documentation/HowItWorks.pdf)
